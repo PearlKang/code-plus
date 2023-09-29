@@ -46,4 +46,4 @@ coding test
 - 가중치가 없는 경우 1이라고 생각하면 됨.
 
 - 차수, 정점과 연결되어 있는 간선의 개수
-- 방향이 있는 경우, In-degree, out-degree로.
+- 방향이 있는 경우, In-degree(들어오는)), out-degree(나가는)로 표현.
